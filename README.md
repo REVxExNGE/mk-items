@@ -1,43 +1,15 @@
-# MK-Items v1.8.4 by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [BuyMeACoffee](https://www.buymeacoffee.com/mcklean)
+# MK-Items v1.8.4 by [McKleans-Scripts](https://mckleans-scripts.tebex.io/)
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
 
-- If Contributing please use this template for the item.lua lines :- [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
-  + Please make all images 100x100px
-    + Template supports the [qb-inventory-decay](https://github.com/i-kulgu/qb-inventory-decay)
-
-
-## Support
-  - We have a Discord you can join, [Join Here](https://discord.gg/DEWp9TP7p6)
-  - You can also support via [BuymeaPizzaSlice](https://www.buymeacoffee.com/mcklean)
-  - Most of the README.md files support the [qb-inventory-decay](https://github.com/i-kulgu/qb-inventory-decay)
-    + If you do not use the decay script don't worry, the item.lua lines will still work with no problems
-    + All decay values will be set to `nil` as this will be down to your server to set the value amount
-
-## Massive Credit to ##
-  - Massive Thank you to Jims ([JixelPatterns](https://discord.gg/JixelPatterns)) Community for all their Icons/Images
-  - Thank You to [Jim](https://discord.gg/JixelPatterns) himself, for permission to include some of his images.
-  - Thank You to MrFurox from [Project Boosted](https://discord.gg/TrvAhGvDs3) for contributing a lot to this repo.
-  - Thank You to [NatasWillDoIt](https://github.com/NatasWillDoIt) for contributing a lot to the README.md in each section
-  - Thank You to [Project Sloth](https://github.com/Project-Sloth)'s Community for sharing their items/imgs in the 'inventory-imgs' channel
-  - Thank You to [googleoblivion](https://github.com/googleoblivion) for resizing a huge amount of the items.
-
-  And Thank you to anyone who helps submit images/icons for the Community
-
-## Contribution
-  - Please feel free to submit a Pull Request (PR) and add to this list for everyone to use.
-    + Please make sure you add the item.lua lines as well as the images.
-  - Please make sure not to use Paid Content images unless given permission, if given permission please give credit.
-    + Please use this Template to add to the README.md files [Template for Items Repo](https://codepen.io/lilphantom25/pen/RwQEvWL?editors=1000)
 
 ## To Setup ##
 
 ## Step 1
   Add the images into your inventory resources (not in the folders)
   - qb-inventory/html/images
-  - lj-inventory/html/images
-  - aj-inventory/html/images
+  - ox_inventory\web\images
     Or other inventories
 
 ## Step 2
@@ -49,7 +21,7 @@
   - Activities ||
   - Animals ||
   - Books ||
-  - Chairs || [Jim-Chairs](https://github.com/jimathy/jim-chairs)
+  - Chairs ||
   - Clothing || Bags | Flags | Jewlery | Masks | Rings | Shoes
   - Drinks || Alcoholic | Beanmachine | Burgershot | Catcafe | Energy | HotDrinks | MK-Drinks | Soda | SoftDrinks | Subway
   - Drugs || Baggies | Chemicals | Joints
@@ -71,6 +43,6 @@
   - Smokes ||
   - Tech || Bank Cards | Camera | Consoles | Electronickits | Hackingdevices | Laptop | News | Phone | Radio | Security Cards | Stolen | USB
   - Tools || Cleaning | Drills | Lockpicks
-  - Toys || GTAV | Pops | NP Rooster Rest || Mostly contributed by [Project Boosted](https://github.com/Project-Boosted/brp-Loot-Images)
+  - Toys || GTAV | Pops | NP Rooster Rest ||
   - Vouchers ||
   - Weapons || Ammo | AR | Attachments | Launcher | Meele | Parts | Pistol | Shotgun | SMG | Sniper | Sprays | Throwables
