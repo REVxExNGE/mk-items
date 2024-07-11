@@ -1,4 +1,4 @@
-# MK-Items v1.8.4 by [McKleans-Scripts](https://mckleans-scripts.tebex.io/)
+# MK-Items v1.8.4 by [McKleans-Scripts](https://github.com/McKleans-Scripts/mk-items)
  + Need more items for your server? Look no further, here you will find items from the Community for the Community. Hopefully, this repo can provide exactly what your looking for.
  + If you can't find something, create an issue and we'll try and find it for you, or if you manage to find it then submit a Pull Request so other members of the community can make use of it too.
  + Bringing More Items to our Communities Role Play Sessions.
